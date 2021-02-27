@@ -11,7 +11,7 @@ $(function () {
         easing: 'linear',
         cssEase: 'linear',
         waitForAnimate: false,
-        speed: 25000,
+        speed: 65000,
         centerMode: true,
         edgeFriction: 0,
         pauseOnFocus: false,
