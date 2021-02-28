@@ -13,7 +13,7 @@ $(function () {
 
     $('.header__slider').slick({
         infinite: true,
-        autoplay: true,
+        
         autoplaySpeed: 0,
         arrows: false,
         // easing: 'linear',
